@@ -1,0 +1,124 @@
+{
+    "patientList": [
+        {
+            "firstName": "Sam",
+            "lastName": "Bello",
+            "note": "Good",
+            "phoneNumber": "21226742",
+            "dateOfBirth": "1996-4-4",
+            "id": "p-849133",
+            "visitReportList": []
+        },
+        {
+            "firstName": "Owen",
+            "lastName": "Hunt",
+            "note": "The",
+            "phoneNumber": "+17783258183",
+            "dateOfBirth": "2000-13-24",
+            "id": "p-673111",
+            "visitReportList": []
+        },
+        {
+            "firstName": "Meredith",
+            "lastName": "Grey",
+            "note": "",
+            "phoneNumber": "+176762323",
+            "dateOfBirth": "1800-2-4",
+            "id": "p-631636",
+            "visitReportList": [
+                {
+                    "date": "2020-10-20",
+                    "medicationList": [
+                        "Salbutamol 50mg",
+                        "Metamphetamine 100mg",
+                        "Indinavir cap"
+                    ],
+                    "fee": 1000,
+                    "requiredProcedureList": [
+                        "Filling right upper",
+                        "Cleaning all",
+                        "Reconstruction"
+                    ],
+                    "completedProcedureList": [],
+                    "completed": false
+                },
+                {
+                    "date": "1234-42-24",
+                    "medicationList": [],
+                    "fee": 10,
+                    "requiredProcedureList": [],
+                    "completedProcedureList": [],
+                    "completed": false
+                }
+            ]
+        }
+    ],
+    "staffList": [
+        {
+            "firstName": "Payam",
+            "lastName": "Fz",
+            "phoneNumber": "+989183073064",
+            "workingHoursPerWeek": 40,
+            "highestDegree": "DMD",
+            "school": "University of British Columbia",
+            "hourlyWage": 30,
+            "dateOfBirth": "1996-4-4",
+            "id": "dn-982",
+            "type": "DENTIST",
+            "startWorkDate": "2008-1-1"
+        },
+        {
+            "firstName": "Pouyan",
+            "lastName": "Fz",
+            "phoneNumber": "8585858585",
+            "workingHoursPerWeek": 40,
+            "highestDegree": "Master's of Engineering",
+            "school": "UofTorronto",
+            "hourlyWage": 40,
+            "dateOfBirth": "2020-10-12",
+            "id": "dn-505",
+            "type": "DENTIST",
+            "startWorkDate": "2020-10-21"
+        },
+        {
+            "firstName": "Cho",
+            "lastName": "Wong",
+            "phoneNumber": "224678",
+            "workingHoursPerWeek": 34,
+            "highestDegree": "Bachelor",
+            "school": "UBC",
+            "hourlyWage": 20,
+            "dateOfBirth": "2020-10-20",
+            "id": "cl-255",
+            "type": "CLERK",
+            "startWorkDate": "2020-10-20"
+        },
+        {
+            "firstName": "Wrong",
+            "lastName": "Person",
+            "phoneNumber": "00000000",
+            "workingHoursPerWeek": 800,
+            "highestDegree": "Kindergarten",
+            "school": "University of children",
+            "hourlyWage": -0.5,
+            "dateOfBirth": "2020-10-23",
+            "id": "as-932",
+            "type": "ASSISTANT",
+            "startWorkDate": "2020-10-23"
+        },
+        {
+            "firstName": "JustinE",
+            "lastName": "Timberlake",
+            "phoneNumber": "999999999",
+            "workingHoursPerWeek": 50,
+            "highestDegree": "Diploma",
+            "school": "Princeton",
+            "hourlyWage": 40.33,
+            "dateOfBirth": "2006-10-20",
+            "id": "hy-673",
+            "type": "HYGIENIST",
+            "startWorkDate": "2013-7-18"
+        }
+    ],
+    "roomList": []
+}

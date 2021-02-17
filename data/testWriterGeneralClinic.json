@@ -1,0 +1,64 @@
+{
+    "patientList": [
+        {
+            "firstName": "Jack",
+            "lastName": "Ma",
+            "note": "",
+            "phoneNumber": "+11111111",
+            "dateOfBirth": "2020-11-25",
+            "id": "p-224422",
+            "visitReportList": [{
+                "date": "2020-11-25",
+                "medicationList": [
+                    "Salbutamol",
+                    "Betametazon"
+                ],
+                "fee": 400.5,
+                "requiredProcedureList": ["Filling"],
+                "completedProcedureList": ["Gum cleaning"],
+                "completed": true
+            }]
+        },
+        {
+            "firstName": "Nicole",
+            "lastName": "Kidman",
+            "note": "",
+            "phoneNumber": "+22222222",
+            "dateOfBirth": "2020-11-25",
+            "id": "p-113311",
+            "visitReportList": [{
+                "date": "2020-11-25",
+                "medicationList": [],
+                "fee": 0,
+                "requiredProcedureList": [],
+                "completedProcedureList": [],
+                "completed": false
+            }]
+        }
+    ],
+    "staffList": [{
+        "firstName": "Emily",
+        "lastName": "Carr",
+        "phoneNumber": "",
+        "workingHoursPerWeek": 0,
+        "highestDegree": "",
+        "school": "",
+        "hourlyWage": 22.5,
+        "dateOfBirth": "2020-11-25",
+        "id": "as-123",
+        "type": "ASSISTANT",
+        "startWorkDate": "2020-11-25"
+    }],
+    "roomList": [{
+        "name": "Waiting Room",
+        "location": "First Floor",
+        "clean": false,
+        "equipmentList": [{
+            "note": "",
+            "name": "Fine Drill",
+            "count": 5,
+            "working": true,
+            "type": "DRILL"
+        }]
+    }]
+}

@@ -1,0 +1,61 @@
+{
+    "patientList": [
+        {
+            "firstName": "Owen",
+            "lastName": "Hunt",
+            "note": "The best patient ever",
+            "phoneNumber": "+1778111111",
+            "dateOfBirth": "2000-13-24",
+            "id": "p-673111",
+            "visitReportList": []
+        },
+        {
+            "firstName": "Meredith",
+            "lastName": "Grey",
+            "note": "",
+            "phoneNumber": "+176762323",
+            "dateOfBirth": "1800-2-4",
+            "id": "p-631636",
+            "visitReportList": [
+                {
+                    "date": "2020-10-20",
+                    "medicationList": [
+                        "Salbutamol 50mg",
+                        "Metamphetamine 100mg",
+                        "Indinavir cap"
+                    ],
+                    "fee": 1000,
+                    "requiredProcedureList": [
+                        "Filling right upper 2nd mollar",
+                        "Reconstruction left lower Canine"
+                    ],
+                    "completedProcedureList": [
+                        "Cleaning all"
+                    ],
+                    "completed": false
+                }
+            ]
+        }
+    ],
+    "staffList": [
+        {
+            "firstName": "Payam",
+            "lastName": "Forouzandeh",
+            "phoneNumber": "+989183073064",
+            "workingHoursPerWeek": 40,
+            "highestDegree": "DMD",
+            "school": "University of British Columbia",
+            "hourlyWage": 30,
+            "dateOfBirth": "1996-4-4",
+            "id": "dn-982",
+            "type": "DENTIST",
+            "startWorkDate": "2008-1-1"
+        }
+    ],
+    "roomList": [{
+        "name": "Imaging Room",
+        "location": "Underground",
+        "clean": true,
+        "equipmentList": []
+    }]
+}
