@@ -38,6 +38,7 @@ Here are some possible user stories for this application:
 - As a user, I want to be able to save/load clinic data manually.
 
 ##Phase 4: Task 2
+
 1 . Type hierarchy:
 
    In the ui package, Window is an abstract super class extending JPanel. Menu, Form, PersonListDisplay
