@@ -23,7 +23,7 @@ Some features of this application are as follows:
 
 Note: some feature above will be tentatively completed by the final submission.
 
-##User Stories
+## User Stories
 Here are some possible user stories for this application:
 - As a user, I want to add or remove patients from clinic database.
 - As a user, I want to add or remove staff from the clinic database.
@@ -37,7 +37,7 @@ Here are some possible user stories for this application:
 - As a user, I want to be able to clear all saved clinic data.
 - As a user, I want to be able to save/load clinic data manually.
 
-##Phase 4: Task 2
+## Phase 4: Task 2
 
 1 . Type hierarchy:
 
@@ -50,7 +50,7 @@ Here are some possible user stories for this application:
    In model.clinic package, Clinic class stores Patients and Staff in HashMap, having their ID as key
    and the actual object as value.
    
-##Phase 4: Task 3
+## Phase 4: Task 3
 - Use hashCode and Equals for identification of Staff and Patient instead of using getID method.
 - Use type substitution for Staff and Patient with Person in Clinic class to reduce repetitive code.
 - Sort list of Visit Reports in Patient class based on their date in addVisitReport method so that the
